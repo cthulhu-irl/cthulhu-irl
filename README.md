@@ -1,4 +1,4 @@
-## I'm a Cthulhu... :)))
+## I'm a Cthulhu beneath... :)
 
-[![Stats? here we go:](https://github-readme-stats.vercel.app/api?username=cthulhu-irl)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cthulhu-irl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Stats? here we go:](https://github-readme-stats.vercel.app/api?username=cthulhu-irl)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cthulhu-irl&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
